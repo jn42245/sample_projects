@@ -1,0 +1,6 @@
+{
+    "background" : "textures/background.png",
+    "midground" : "textures/midground.png",
+    "bob" : "",
+    "obstacles": ""
+}
