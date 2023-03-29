@@ -51,5 +51,5 @@ if __name__ == '__main__':
     subject = "Subject Test"
     body = "XXXXXXXXXX"
 
-    send_email(read_cred(cred_path)[0], "thtran@squaretrade.com", read_cred(cred_path)[1], subject, body, 465)
+    send_email(read_cred(cred_path)[0], "xxx@xxx", read_cred(cred_path)[1], subject, body, 465)
 
