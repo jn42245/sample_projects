@@ -1,7 +1,5 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
-# Work Projects
-Repository containing past codes and projects created through work experience
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
 
 ### Projects:
 
@@ -10,3 +8,5 @@ Repository containing past codes and projects created through work experience
 2) pptx_pres: script to generate automatic powerpoint presentations. Includes scripts to generate plotly graphs, maps, and automatic text.
 
 3) automatic_email: script to automatically send emails using Python
+
+4) Skippy Bob: a game to skip obstacles. This was created to practice C++
